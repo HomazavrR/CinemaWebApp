@@ -1,0 +1,54 @@
+﻿@page
+@model CinemaWebApp.Pages.Должности.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Добавить</h1>
+
+<h4>Должность</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Должность.КодДолжности" class="control-label"></label>
+                <input asp-for="Должность.КодДолжности" class="form-control" />
+                <span asp-validation-for="Должность.КодДолжности" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Должность.НаименованиеДолжности" class="control-label"></label>
+                <input asp-for="Должность.НаименованиеДолжности" class="form-control" />
+                <span asp-validation-for="Должность.НаименованиеДолжности" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Должность.Оклад" class="control-label"></label>
+                <input asp-for="Должность.Оклад" class="form-control" />
+                <span asp-validation-for="Должность.Оклад" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Должность.Обязанности" class="control-label"></label>
+                <input asp-for="Должность.Обязанности" class="form-control" />
+                <span asp-validation-for="Должность.Обязанности" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Должность.Требования" class="control-label"></label>
+                <input asp-for="Должность.Требования" class="form-control" />
+                <span asp-validation-for="Должность.Требования" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Добавить" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Назад к списку</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

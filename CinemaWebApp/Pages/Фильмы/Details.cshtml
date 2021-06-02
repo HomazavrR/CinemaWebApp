@@ -1,0 +1,67 @@
+﻿@page
+@model CinemaWebApp.Pages.Фильмы.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Описание</h1>
+
+<div>
+    <h4>Фильм</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Фильм.Наименование)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Фильм.Наименование)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Фильм.Длительность)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Фильм.Длительность)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Фильм.ФирмаПроизводитель)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Фильм.ФирмаПроизводитель)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Фильм.СтранаПроизводитель)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Фильм.СтранаПроизводитель)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Фильм.Актёры)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Фильм.Актёры)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Фильм.ВозрастныеОграничения)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Фильм.ВозрастныеОграничения)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Фильм.Описание)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Фильм.Описание)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Фильм.КодЖанраNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Фильм.КодЖанраNavigation.Наименование)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Фильм.КодФильма">Редактировать</a> |
+    <a asp-page="./Index">Назад к списку</a>
+</div>

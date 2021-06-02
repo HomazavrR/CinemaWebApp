@@ -1,0 +1,54 @@
+﻿@page
+@model CinemaWebApp.Pages.Репертуары.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Репертуары</h1>
+
+<p>
+    <a asp-page="Create">Добавить</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Репертуар[0].Дата)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Репертуар[0].ВремяНачала)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Репертуар[0].ВремяОкончания)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Репертуар[0].ЦенаБилета)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Репертуар) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Дата)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ВремяНачала)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ВремяОкончания)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ЦенаБилета)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.КодСеанса">Редактировать</a> |
+                <a asp-page="./Details" asp-route-id="@item.КодСеанса">Описание</a> |
+                <a asp-page="./Delete" asp-route-id="@item.КодСеанса">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

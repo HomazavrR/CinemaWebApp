@@ -1,0 +1,76 @@
+﻿@page
+@model CinemaWebApp.Pages.RequestsAndFilters.IndexModel
+@{
+    <script>function BtnFun(Classname, obj) {
+        var value = obj.value;
+        var name = "." + Classname;
+        if (value[0] != "-") {
+            $(name).prop('disabled', false);
+        }
+        else {
+            $(name).prop('disabled', true);
+        }
+    }</script>
+
+                <div class="accordion" id="accordionExample">
+                    <div class="card">
+                        <div class="card-header" id="headingOne">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="text-decoration: none">
+                                    Запросы
+                                </button>
+                            </h5>
+                        </div>
+
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                            <div class="card-body">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/RequestsAndFilters/Requests/HumanResource">Отдел кадров</a>
+
+                                <a class="nav-link text-dark" asp-area="" asp-page="/RequestsAndFilters/Requests/FilmsList">Список фильмов</a>
+
+                                <a class="nav-link text-dark" asp-area="" asp-page="/RequestsAndFilters/Requests/Tickets">Билеты</a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingTwo">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="text-decoration: none">
+                                    Фильтры
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                            <div class="card-body">
+                                <form>
+                                    Отобразить сотрудников с должностью:
+                                    <select asp-items="Model.Должность" name="id" class="form-control-sm">
+                                        <option value="-1">Должность не выбрана</option>
+                                    </select>
+                                    <button asp-page="filters/HRFilter" class="btn btn-primary">Отфильтровать</button>
+                                </form>
+                                <form>
+                                    Отобразить фильмы за жанром:
+                                    <select asp-items="Model.Жанр" name="id" class="form-control-sm">
+                                        <option value="-1">Жанр не выбран</option>
+                                    </select>
+                                    <button asp-page="filters/FilmFilter" class="btn btn-primary">Отфильтровать</button>
+                                </form>
+                                <form>
+                                    Отобразить Билеты за Датой:
+                                    <select asp-items="Model.Репертуар" name="id" class="form-control-sm">
+                                        <option value="-1">Дата не выбрана</option>
+                                    </select>
+                                    <button asp-page="filters/SessionDateFilter" class="btn btn-primary">Отфильтровать</button>
+                                </form>
+
+                                <br />
+
+
+                                <br />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+}

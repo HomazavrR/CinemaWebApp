@@ -1,0 +1,32 @@
+﻿@page
+@model CinemaWebApp.Pages.RequestsAndFilters.Filters.HRFilterModel
+@{
+    <h1>Отдел кадров</h1>
+
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Сотрудник[0].Фио)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Сотрудник[0].КодДолжности)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Сотрудник)
+                        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Фио)
+                </td>
+                <td>
+                    @Model.Должность.НаименованиеДолжности
+
+                </td>
+            </tr>            }
+                    </tbody>
+                </table>
+}

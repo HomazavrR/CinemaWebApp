@@ -1,0 +1,408 @@
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.exe
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.deps.json
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.runtimeconfig.json
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.runtimeconfig.dev.json
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ref\CinemaWebApp.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.pdb
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.Views.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.Views.pdb
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.AssemblyInfoInputs.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.AssemblyInfo.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorAssemblyInfo.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorAssemblyInfo.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\staticwebassets\CinemaWebApp.StaticWebAssets.Manifest.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\staticwebassets\CinemaWebApp.StaticWebAssets.xml
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\scopedcss\bundle\CinemaWebApp.styles.css
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.TagHelpers.input.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.TagHelpers.output.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorCoreGenerate.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.Views.pdb
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.csproj.CopyComplete
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\ref\CinemaWebApp.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.pdb
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.genruntimeconfig.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.csprojAssemblyReference.cache
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Create.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Delete.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Details.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Edit.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Index.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Create.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Delete.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Details.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Edit.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Index.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Create.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Delete.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Details.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Edit.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Index.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Create.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Delete.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Details.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Edit.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Index.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Create.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Delete.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Details.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Edit.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Index.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Create.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Delete.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Details.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Edit.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Index.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Index.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Requests\HumanResource.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Requests\FilmsList.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Requests\Tickets.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Filters\HRFilter.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Filters\FilmFilter.cshtml.g.cs
+C:\Users\komp\Desktop\Karina tereshchenko - project\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Filters\SessionDateFilter.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\appsettings.json
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.exe
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.deps.json
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.runtimeconfig.json
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.runtimeconfig.dev.json
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ref\CinemaWebApp.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.pdb
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.Views.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\CinemaWebApp.Views.pdb
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Humanizer.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.csprojAssemblyReference.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.AssemblyInfoInputs.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.AssemblyInfo.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.csproj.CoreCompileInputs.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorAssemblyInfo.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorAssemblyInfo.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\staticwebassets\CinemaWebApp.StaticWebAssets.Manifest.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\staticwebassets\CinemaWebApp.StaticWebAssets.xml
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\scopedcss\bundle\CinemaWebApp.styles.css
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.TagHelpers.input.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.TagHelpers.output.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorCoreGenerate.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Filters\FilmFilter.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Filters\HRFilter.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Filters\SessionDateFilter.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Index.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Requests\FilmsList.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Requests\HumanResource.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\RequestsAndFilters\Requests\Tickets.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Create.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Delete.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Details.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Edit.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Должности\Index.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Create.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Delete.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Details.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Edit.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Жанры\Index.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Create.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Delete.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Details.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Edit.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Места\Index.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Create.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Delete.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Details.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Edit.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Репертуары\Index.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Create.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Delete.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Details.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Edit.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Сотрудники\Index.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Create.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Delete.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Details.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Edit.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\Razor\Pages\Фильмы\Index.cshtml.g.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorTargetAssemblyInfo.cache
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.RazorTargetAssemblyInfo.cs
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.Views.pdb
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.csproj.CopyComplete
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\ref\CinemaWebApp.dll
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.pdb
+D:\Karina_repositories\CinemaWebApp\CinemaWebApp\obj\Debug\net5.0\CinemaWebApp.genruntimeconfig.cache

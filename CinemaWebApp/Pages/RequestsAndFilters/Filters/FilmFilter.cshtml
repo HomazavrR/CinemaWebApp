@@ -1,0 +1,34 @@
+﻿@page
+@model CinemaWebApp.Pages.RequestsAndFilters.Filters.FilmFilterModel
+@{
+    <h1>Отдел кадров</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Фильм[0].Наименование)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Фильм[0].КодЖанра)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Фильм)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Наименование)
+                    </td>
+                    <td>
+                        @Model.Жанр.Наименование
+
+                    </td>
+                </tr>
+}
+        </tbody>
+    </table>
+
+}

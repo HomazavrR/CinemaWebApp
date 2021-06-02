@@ -1,0 +1,78 @@
+﻿@page
+@model CinemaWebApp.Pages.Фильмы.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Фильмы</h1>
+
+<p>
+    <a asp-page="Create">Добавить</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Фильм[0].Наименование)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Фильм[0].Длительность)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Фильм[0].ФирмаПроизводитель)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Фильм[0].СтранаПроизводитель)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Фильм[0].Актёры)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Фильм[0].ВозрастныеОграничения)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Фильм[0].Описание)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Фильм[0].КодЖанра)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Фильм) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Наименование)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Длительность)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ФирмаПроизводитель)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.СтранаПроизводитель)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Актёры)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ВозрастныеОграничения)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Описание)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.КодЖанраNavigation.Наименование)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.КодФильма">Редактирование</a> |
+                <a asp-page="./Details" asp-route-id="@item.КодФильма">Описание</a> |
+                <a asp-page="./Delete" asp-route-id="@item.КодФильма">Редактировать</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

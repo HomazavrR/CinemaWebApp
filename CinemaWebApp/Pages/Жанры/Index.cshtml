@@ -1,0 +1,42 @@
+﻿@page
+@model CinemaWebApp.Pages.Жанры.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Жанры</h1>
+
+<p>
+    <a asp-page="Create">Добавить</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Жанр[0].Наименование)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Жанр[0].Описание)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Жанр) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Наименование)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Описание)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.КодЖанра">Редактировать</a> |
+                <a asp-page="./Details" asp-route-id="@item.КодЖанра">Описание</a> |
+                <a asp-page="./Delete" asp-route-id="@item.КодЖанра">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

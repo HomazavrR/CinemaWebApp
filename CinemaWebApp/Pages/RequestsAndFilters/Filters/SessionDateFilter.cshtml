@@ -1,0 +1,29 @@
+﻿@page
+@model CinemaWebApp.Pages.RequestsAndFilters.Filters.SessionDateFilterModel
+@{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Место[0].НомерМеста)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Место[0].КодСеансаNavigation.Дата)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Место)
+            {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.НомерМеста)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.КодСеансаNavigation.Дата)
+    </td>
+</tr>            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,38 @@
+﻿@page
+@model CinemaWebApp.Pages.RequestsAndFilters.Requests.FilmsListModel
+@{
+    <h1>Список Фильмов</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Фильмы[0].Наименование)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Жанры[0].Наименование)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Фильмы)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Наименование)
+                    </td>
+                    <td>
+                        @{ try
+                            {
+                                @Model.Жанры.First(r => r.КодЖанра == item.КодЖанра).Наименование }
+                            catch
+                            {
+                                <p> Данных нет </p> } }
+
+                    </td>
+                </tr>
+}
+        </tbody>
+    </table>
+}

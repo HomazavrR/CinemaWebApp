@@ -1,0 +1,40 @@
+﻿@page
+@model CinemaWebApp.Pages.Жанры.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Редактировать</h1>
+
+<h4>Жанр</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Жанр.КодЖанра" />
+            <div class="form-group">
+                <label asp-for="Жанр.Наименование" class="control-label"></label>
+                <input asp-for="Жанр.Наименование" class="form-control" />
+                <span asp-validation-for="Жанр.Наименование" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Жанр.Описание" class="control-label"></label>
+                <input asp-for="Жанр.Описание" class="form-control" />
+                <span asp-validation-for="Жанр.Описание" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Назад к списку</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

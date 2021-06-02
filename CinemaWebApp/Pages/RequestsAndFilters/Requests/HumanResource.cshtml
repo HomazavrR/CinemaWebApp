@@ -1,0 +1,37 @@
+﻿@page
+@model CinemaWebApp.Pages.RequestsAndFilters.Reqests.HumanResourceModel
+@{
+    <h1>Отдел кадров</h1>
+
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Сотрудники[0].Фио)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Сотрудники[0].КодДолжности)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Сотрудники)
+                        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Фио)
+                </td>
+                <td>
+                    @{ try
+                                        {
+                        @Model.Должности.First(r => r.КодДолжности == item.КодДолжности).НаименованиеДолжности }
+                                        catch
+                                        {
+                        <p> Данных нет </p> } }
+
+                </td>
+            </tr>            }
+                    </tbody>
+                </table>
+}

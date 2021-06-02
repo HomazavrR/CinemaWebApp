@@ -1,0 +1,48 @@
+﻿@page
+@model CinemaWebApp.Pages.Места.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Места</h1>
+
+<p>
+    <a asp-page="Create">Добавить</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Место[0].Занятость)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Место[0].КодСотрудника)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Место[0].КодСеансаNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Место) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Занятость)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.КодСотрудника)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.КодСеансаNavigation.КодСеанса)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.НомерМеста">Изменить</a> |
+                <a asp-page="./Details" asp-route-id="@item.НомерМеста">Описание</a> |
+                <a asp-page="./Delete" asp-route-id="@item.НомерМеста">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

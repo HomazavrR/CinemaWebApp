@@ -1,0 +1,50 @@
+﻿@page
+@model CinemaWebApp.Pages.RequestsAndFilters.Requests.TicketsModel
+@{
+    <h1>Билеты</h1>
+
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Место[0].НомерМеста)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Репертуар[0].КодСеанса)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Сотрудник[0].КодСотрудника)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Место)
+                        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.НомерМеста)
+                </td>
+                <td>
+                    @{ try
+                                        {
+                        @Model.Репертуар.First(r => r.КодСеанса == item.КодСеанса).КодСеанса }
+                                        catch
+                                        {
+                        <p> Данных нет </p> } }
+
+                </td>
+                <td>
+                    @{ try
+                                        {
+                        @Model.Сотрудник.First(r => r.КодСотрудника == item.КодСотрудника).Фио }
+                                        catch
+                                        {
+                        <p> Данных нет </p> } }
+
+                </td>
+                
+            </tr>            }
+                    </tbody>
+                </table>
+}

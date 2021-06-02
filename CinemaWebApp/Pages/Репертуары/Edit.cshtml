@@ -1,0 +1,50 @@
+﻿@page
+@model CinemaWebApp.Pages.Репертуары.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Редактировать</h1>
+
+<h4>Репертуар</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Репертуар.КодСеанса" />
+            <div class="form-group">
+                <label asp-for="Репертуар.Дата" class="control-label"></label>
+                <input asp-for="Репертуар.Дата" class="form-control" />
+                <span asp-validation-for="Репертуар.Дата" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Репертуар.ВремяНачала" class="control-label"></label>
+                <input asp-for="Репертуар.ВремяНачала" class="form-control" />
+                <span asp-validation-for="Репертуар.ВремяНачала" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Репертуар.ВремяОкончания" class="control-label"></label>
+                <input asp-for="Репертуар.ВремяОкончания" class="form-control" />
+                <span asp-validation-for="Репертуар.ВремяОкончания" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Репертуар.ЦенаБилета" class="control-label"></label>
+                <input asp-for="Репертуар.ЦенаБилета" class="form-control" />
+                <span asp-validation-for="Репертуар.ЦенаБилета" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Сохранить" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Назад к списку</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

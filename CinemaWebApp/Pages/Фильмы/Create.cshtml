@@ -1,0 +1,73 @@
+﻿@page
+@model CinemaWebApp.Pages.Фильмы.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Фильм</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Фильм.КодФильма" class="control-label"></label>
+                <input asp-for="Фильм.КодФильма" class="form-control" />
+                <span asp-validation-for="Фильм.КодФильма" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Фильм.Наименование" class="control-label"></label>
+                <input asp-for="Фильм.Наименование" class="form-control" />
+                <span asp-validation-for="Фильм.Наименование" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Фильм.Длительность" class="control-label"></label>
+                <input asp-for="Фильм.Длительность" class="form-control" />
+                <span asp-validation-for="Фильм.Длительность" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Фильм.ФирмаПроизводитель" class="control-label"></label>
+                <input asp-for="Фильм.ФирмаПроизводитель" class="form-control" />
+                <span asp-validation-for="Фильм.ФирмаПроизводитель" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Фильм.СтранаПроизводитель" class="control-label"></label>
+                <input asp-for="Фильм.СтранаПроизводитель" class="form-control" />
+                <span asp-validation-for="Фильм.СтранаПроизводитель" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Фильм.Актёры" class="control-label"></label>
+                <input asp-for="Фильм.Актёры" class="form-control" />
+                <span asp-validation-for="Фильм.Актёры" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Фильм.ВозрастныеОграничения" class="control-label"></label>
+                <input asp-for="Фильм.ВозрастныеОграничения" class="form-control" />
+                <span asp-validation-for="Фильм.ВозрастныеОграничения" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Фильм.Описание" class="control-label"></label>
+                <input asp-for="Фильм.Описание" class="form-control" />
+                <span asp-validation-for="Фильм.Описание" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Фильм.КодЖанра" class="control-label"></label>
+                <select asp-for="Фильм.КодЖанра" class ="form-control" asp-items="ViewBag.КодЖанра"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
