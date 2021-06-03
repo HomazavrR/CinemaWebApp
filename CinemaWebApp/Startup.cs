@@ -30,7 +30,7 @@ namespace CinemaWebApp
         {
             services.AddRazorPages();
             services.AddDbContext<CinemaContext>(options =>
-options.UseSqlServer("Data Source=(localdb)\\mssqllocaldb;Initial Catalog=Cinema.db;Integrated Security=True"));
+options.UseSqlServer("Data Source=(localdb)\\mssqllocaldb;Initial Catalog=Cinema.db; Integrated Security=True"));
 
         }
 

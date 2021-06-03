@@ -1,6 +1,7 @@
 ﻿@page
 @model CinemaWebApp.Pages.RequestsAndFilters.Filters.SessionDateFilterModel
 @{
+    <h1>Билеты</h1>
     <table class="table">
         <thead>
             <tr>
@@ -16,14 +17,15 @@
         <tbody>
             @foreach (var item in Model.Место)
             {
-<tr>
-    <td>
-        @Html.DisplayFor(modelItem => item.НомерМеста)
-    </td>
-    <td>
-        @Html.DisplayFor(modelItem => item.КодСеансаNavigation.Дата)
-    </td>
-</tr>            }
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.НомерМеста)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.КодСеансаNavigation.Дата)
+                    </td>
+                </tr>
+       }
         </tbody>
     </table>
 }
